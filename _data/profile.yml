@@ -1,10 +1,9 @@
-primary_name: "Jasper"
-secondary_name: "Zongrong Li"
+primary_name: "Liuqing Yang"
 navbar_name: "Homepage"
 
 positions:
 - logo: /assets/images/badges/Texas_A&M_University_seal.svg  # Logo is optional
-  name: Ph.D. in Geographic Information Systems
+  name: Postdoctoral Researcher at Uppsala University
 # - name: Position 2 without logo
 
 
