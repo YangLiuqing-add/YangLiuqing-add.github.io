@@ -54,36 +54,16 @@ education:
   logo: /assets/images/badges/yangtze.png
   position: M.S. in Geological Engineering
   date:  Sep. 2017 - Jun. 2020
-- name: Nanjing Audit University
+- name: China University of Petroleum, Shengli College
   logo: /assets/images/badges/cupc.jpeg
   position: B.A. in Oil and Gas Storage and Transportation Engineering
   date: Sep. 2012 - Jul. 2016
 
 experience:
-- name: The Hong Kong University of Science and Technology (Guangzhou)
-  logo: /assets/images/badges/UST.svg.png
-  position: Research Assistant - AI4City Lab
-  date: Aug. 2024 - Aug.2025
-
-- name: Harvard University
-  logo: /assets/images/badges/Harvard.png
-  position: Research Assistant - Spatial Data Lab
-  date: May. 2024 - Sep. 2024
-
-- name: City of Hope
-  logo: /assets/images/badges/COH.png
-  position: Data Science Intern
-  date: Feb. 2024 - May. 2024
-
-- name: The Hong Kong Polytechnic University
-  logo: /assets/images/badges/PolyU.svg_.png
-  position: Research Assistant
-  date: Sep. 2023 - May. 2024
-
-- name: NetEase Youdao
-  logo: /assets/images/badges/youdaojfif.jfif
-  position: Data Analyst Intern
-  date: Jan. 2023 - Apr. 2023
+- name: Uppsala University
+  logo: /assets/images/badges/Uppsala.png
+  position: Postdoc Researcher
+  date: Aug. 2024 - Present
 
 
 awards:
