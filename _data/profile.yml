@@ -25,7 +25,7 @@ short_bio: >-
   </p>
 
   <p>
-    I am currently a <strong>Postdoc Researcher</strong> in Department of Earth Sciences at 
+    I am currently a <strong>Postdoc Researcher</strong> in the Department of Earth Sciences at 
     <a href="https://www.uu.se/en" target="_blank">Uppsala University</a>, 
     advised by Prof. <a href="https://scholar.google.com/citations?user=lb1LlH4AAAAJ&hl=en" target="_blank">Alireza Malehmir</a>. 
     I received my Ph.D. in Geological Resources and Geological Engineering from 
@@ -46,18 +46,18 @@ portrait_caption: >-
   Serve the cat, rule the world.
 
 education:
-- name: Texas A&M University
-  logo: /assets/images/badges/Texas_A&M_University_seal.svg
-  position: Ph.D. in Geographic Information Systems
-  date: Aug. 2025 - Present
-- name: University of Southern California
-  logo: /assets/images/badges/usc.png
-  position: M.S. in Spatial Data Science
-  date: Aug. 2023 - May. 2025
+- name: China University of Petroleum (Beijing)
+  logo: /assets/images/badges/cup.jpg
+  position: Ph.D. in Geological Resources and Geological Engineering
+  date: Sep. 2020 - Jun. 2024
+- name: Yangtze University
+  logo: /assets/images/badges/yangtze.png
+  position: M.S. in Geological Engineering
+  date:  Sep. 2017 - Jun. 2020
 - name: Nanjing Audit University
-  logo: /assets/images/badges/NAU.png
-  position: B.A. in Economics, Finance
-  date: Sep. 2018 - Jul. 2022
+  logo: /assets/images/badges/cupc.jpeg
+  position: B.A. in Oil and Gas Storage and Transportation Engineering
+  date: Sep. 2012 - Jul. 2016
 
 experience:
 - name: The Hong Kong University of Science and Technology (Guangzhou)
