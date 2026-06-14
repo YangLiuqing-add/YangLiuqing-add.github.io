@@ -25,22 +25,6 @@ navbar_title: Home
     %}
 {% endif %}
 
-{% assign selected_projects = site.projects | sort: "date" | reverse | where: "selected", true %}
-{% if selected_projects.size > 0 %}
-<div class="my-3 p-0 bg-white shadow-sm rounded-sm">
-    <h6 class="border-bottom border-gray p-3 mb-0">
-        <i class="fas fa-code"></i> Selected Projects
-        <a href="{{ 'projects' | relative_url }}">(view all <i class="fas fa-angle-double-right"></i>)</a>
-    </h6>
-    {% for item in selected_projects %}
-        {% assign is_last = forloop.last %}
-        {% include widgets/project_item.html item=item hide_bottom_border=is_last %}
-    {% endfor %}
-    <h6 class="d-block p-3 mt-0 text-right">
-        <a href="{{ 'projects' | relative_url }}">All projects <i class="fas fa-angle-double-right"></i></a>
-    </h6>
-</div>
-{% endif %}
 
 {% assign showcase_items = site.showcase | sort: "date" | reverse | where: "show", true | where: "group", "Not Just Research" %}
 {% if showcase_items.size > 0 %}
