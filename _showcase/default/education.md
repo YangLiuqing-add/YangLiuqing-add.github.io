@@ -4,7 +4,7 @@ width: 6
 date: 2020-01-12 00:01:00 +0800
 ---
 <div class="m-4">
-    <h5>Education</h5>
+    <h5>Education  & Professional Experience </h5>
     <ul class="list-unstyled mb-1">
         {% for item in site.data.profile.education %}
         <li class="media mb-1">
