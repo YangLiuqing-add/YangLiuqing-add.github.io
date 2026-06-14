@@ -6,5 +6,5 @@ title: >-
   </a>,
   involving over 30 km of mixed 2D and sparse 3D seismic surveys for deep structural imaging and mineral exploration
 
-date: 2025-11-01 10:00:00 -0800
+date: 2026-3-15 10:00:00 -0800
 ---
