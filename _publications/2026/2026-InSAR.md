@@ -7,7 +7,7 @@ selected:       true
 pub_post:       'Ongoing'
 #pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2026"
-category:       "InSAR and Remote Sensing"
+category:       "Remote Sensing"
 category_order: 5
 #abstract: >-
 #  Explores a physically constrained and self-interpretable framework for InSAR time-series reconstruction, emphasizing transparent temporal feature attribution, uncertainty characterization, and scientific reliability in synthetic-to-real deformation mapping.
