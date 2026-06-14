@@ -10,7 +10,7 @@ pub_date:       "2026"
 category:       "Remote Sensing"
 category_order: 5
 #abstract: >-
-Explores a physically constrained and self-interpretable framework for InSAR time-series reconstruction, emphasizing transparent temporal feature attribution, uncertainty characterization, and scientific reliability in synthetic-to-real deformation mapping.
+  Explores a physically constrained and self-interpretable framework for InSAR time-series reconstruction, emphasizing transparent temporal feature attribution, uncertainty characterization, and scientific reliability in synthetic-to-real deformation mapping.
 cover:  assets/images/covers/framework.jpeg
 authors:
   - Liuqing Yang
