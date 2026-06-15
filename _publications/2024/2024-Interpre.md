@@ -22,6 +22,6 @@ authors:
 
 links:
   Paper: https://doi.org/10.1109/TGRS.2024.3386590
-#  Code: https://github.com/YangLiuqing-add/PDDNet
+  Code: https://github.com/YangLiuqing-add/MANet
 #  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
