@@ -1,9 +1,16 @@
 ---
 show: true
 width: 6
-date: 2024-12-12 00:01:00 +0800
-group: Not Just Research
+date: 2026-04-25 00:01:00 +0800
+group: Field Work
 ---
-<div>
-    <img data-src="{{ 'assets/images/etc/1.jpg' | relative_url }}" class="lazy w-100 rounded" src="{{ '/assets/images/etc/1.jpg' | relative_url }}" data-toggle="tooltip" data-placement="top" title="Miles traveled, memories made. 🌄">
-</div>
+
+#### 🇨🇦 Vauze Mine Tailings Facility, Quebec, Canada
+
+Participated in a large-scale 3D seismic and DAS acquisition campaign at the Vauze Mine Tailings Facility, supporting subsurface characterization and tailings stability assessment.
+
+<p align="center">
+  <img src="Images/Canada_field1.jpeg" width="32%">
+  <img src="Images/Canada_field2.jpeg" width="32%">
+  <img src="Images/Canada_field3.jpeg" width="32%">
+</p>
