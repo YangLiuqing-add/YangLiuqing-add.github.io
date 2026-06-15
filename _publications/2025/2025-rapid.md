@@ -4,7 +4,7 @@ date:           2025-08-01 00:01:00 +0800
 selected:       false
 pub_post:       "Geophysical Journal International"
 pub_date:       "2025"
-category:       "AI for Seismology"
+category:       "Seismology"
 category_order: 4
 
 authors:
