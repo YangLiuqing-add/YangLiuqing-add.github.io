@@ -1,7 +1,7 @@
 ---
 title:          "Salt3DNet: A Self-Supervised Learning Framework for 3-D Salt Segmentation"
 date:           2025-04-29 00:01:00 +0800
-selected:       true
+selected:       false
 #pub:            ""
 #pub_pre:        ""
 pub_post:       'IEEE Transactions on Geoscience and Remote Sensing'
