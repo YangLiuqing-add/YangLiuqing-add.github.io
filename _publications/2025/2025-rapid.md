@@ -17,4 +17,5 @@ authors:
 
 links:
   Paper: https://doi.org/10.1093/gji/ggaf341
+  Code: https://github.com/chenyk1990/hfswd
 ---
