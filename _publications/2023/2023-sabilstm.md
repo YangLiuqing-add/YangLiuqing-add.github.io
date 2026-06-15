@@ -1,0 +1,31 @@
+---
+title:          "High-Fidelity Permeability and Porosity Prediction Using Deep Learning With the Self-Attention Mechanism"
+date:           2023-07-17 00:01:00 +0800
+selected:       false
+#pub:            ""
+#pub_pre:        ""
+pub_post:       'IEEE Transactions on Neural Networks and Learning Systems'
+#pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_date:       "2023"
+category:       "Reservoir Characterization"
+category_order: 3
+#abstract: >-
+#  Photo by Pineapple Supply Co. on Unsplash. Please put a tldr (too-long-didnt-read, 1~2 sentences) of your publication here. It is not recommended to put the actual abstract here because it is usually too long to fit in. $\LaTeX$ is supported. $a=b+c$.
+cover:  assets/images/covers/blisab.jpeg
+authors:
+  - Liuqing Yang
+  - Shoudong Wang#
+  - Xiaohong Chen
+  - Wei Chen
+  - Omar M. Saad
+  - Xu Zhou
+  - Nam Pham
+  - Zhicheng Geng
+  - Sergey Fomel
+  - Yangkang Chen
+
+links:
+  Paper: https://doi.org/10.1109/TNNLS.2022.3157765
+#  Code: https://github.com/YangLiuqing-add/SLKNet
+#  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
+---
