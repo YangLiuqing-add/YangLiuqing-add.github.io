@@ -18,7 +18,7 @@ authors:
   - Magdalena Markovic
 
 links:
-Paper: https://doi.org/10.1111/1365-2478.70123
+  Paper: https://doi.org/10.1111/1365-2478.70123
 #Code: https://github.com/ai4city-hkust/buildingview_turbo
 #  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
