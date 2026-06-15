@@ -416,6 +416,21 @@ div.lazy {
     border-top: 1px solid var(--line);
 }
 
+.showcase-card {
+    padding: 28px 32px;
+    border-radius: 12px !important;
+}
+
+.showcase-card p {
+    line-height: 1.75;
+    margin-bottom: 18px;
+}
+
+.showcase-card img {
+    border-radius: 8px;
+}
+
+
 @media (max-width: 768px) {
     .site-hero {
         min-height: 86vh;
