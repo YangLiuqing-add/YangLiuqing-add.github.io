@@ -10,7 +10,7 @@ group: Field Work
 Participated in a large-scale 3D seismic and DAS acquisition campaign at the Vauze Mine Tailings Facility, supporting subsurface characterization and tailings stability assessment.
 
 <p align="center">
-  <img src="Images/Canada_field1.jpeg" width="32%">
+  <img src="Images/Canada_field.jpeg" width="32%">
   <img src="Images/Canada_field2.jpeg" width="32%">
-  <img src="Images/Canada_field3.jpeg" width="32%">
+  <img src="Images/Canada_unit.jpeg" width="32%">
 </p>
