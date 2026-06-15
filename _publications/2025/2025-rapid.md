@@ -12,7 +12,7 @@ authors:
   - Iason Grigoratos
   - Liuqing Yang
   - Omar M. Saad
-  - Christian Breton
+  - Caroline Breton
   - Alexandros Savvaidis
 
 links:
