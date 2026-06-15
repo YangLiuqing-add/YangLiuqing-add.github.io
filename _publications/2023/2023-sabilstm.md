@@ -1,7 +1,7 @@
 ---
 title:          "High-Fidelity Permeability and Porosity Prediction Using Deep Learning With the Self-Attention Mechanism"
 date:           2023-07-17 00:01:00 +0800
-selected:       false
+selected:       true
 #pub:            ""
 #pub_pre:        ""
 pub_post:       'IEEE Transactions on Neural Networks and Learning Systems'
@@ -11,7 +11,7 @@ category:       "Reservoir Characterization"
 category_order: 3
 #abstract: >-
 #  Photo by Pineapple Supply Co. on Unsplash. Please put a tldr (too-long-didnt-read, 1~2 sentences) of your publication here. It is not recommended to put the actual abstract here because it is usually too long to fit in. $\LaTeX$ is supported. $a=b+c$.
-cover:  assets/images/covers/blisab.jpeg
+cover:  assets/images/covers/blisab.png
 authors:
   - Liuqing Yang
   - Shoudong Wang#
