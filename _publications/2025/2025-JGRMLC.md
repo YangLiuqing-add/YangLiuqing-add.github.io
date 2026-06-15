@@ -18,7 +18,7 @@ authors:
   - Magdalena Markovic
 
 links:
-Paper: https://doi.org/10.1029/2025JH000627
-Code: https://github.com/YangLiuqing-add/PDDNet
+  Paper: https://doi.org/10.1029/2025JH000627
+  Code: https://github.com/YangLiuqing-add/PDDNet
 #  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
