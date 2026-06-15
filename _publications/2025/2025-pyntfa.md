@@ -9,11 +9,12 @@ category_order: 1
 
 authors:
   - Yangkang Chen
-  - Chenglong Li
-  - Yangkang Chen
+  - Chao Li
+  - Yunfeng Chen
   - Liuqing Yang
   - Alexandros Savvaidis
-
+  - 
 links:
   Paper: https://doi.org/10.1785/0220240457
+  Code: https://github.com/aaspip/pyntfa
 ---
