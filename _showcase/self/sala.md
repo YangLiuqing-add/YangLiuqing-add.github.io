@@ -1,7 +1,6 @@
 ---
-
 show: true
-width: 12
+width: 32
 date: 2026-05-15 00:01:00 +0800
 group: Field Work
 -----------------
