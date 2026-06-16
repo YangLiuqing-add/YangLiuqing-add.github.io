@@ -13,7 +13,6 @@ Working directly with DAS systems and conventional seismic equipment provided va
 
 <table style="width:100%; border-collapse:collapse;">
 <tr>
-
 <td style="width:35%; padding:4px;">
 <img src="/Images/Sala_field3.jpeg"
      style="width:100%; height:520px; object-fit:cover; border-radius:8px;">
@@ -26,7 +25,6 @@ Working directly with DAS systems and conventional seismic equipment provided va
 <img src="/Images/Sala_field2.jpeg"
      style="width:100%; height:255px; object-fit:cover; border-radius:8px;">
 </td>
-
 </tr>
 </table>
 
@@ -36,16 +34,16 @@ Working directly with DAS systems and conventional seismic equipment provided va
 <tr>
 
 <td style="width:65%; padding:4px;">
+<img src="/Images/Sala_vc.jpeg"
+     style="width:100%; height:520px; object-fit:cover; border-radius:8px;">
+</td>
+
+<td style="width:35%; padding:4px;">
 <img src="/Images/Sala_forest.jpeg"
      style="width:100%; height:255px; object-fit:cover; border-radius:8px; margin-bottom:8px;">
 
 <img src="/Images/Sala_gps.jpeg"
      style="width:100%; height:255px; object-fit:cover; border-radius:8px;">
-</td>
-
-<td style="width:35%; padding:4px;">
-<img src="/Images/Sala_vc.jpeg"
-     style="width:100%; height:520px; object-fit:cover; border-radius:8px;">
 </td>
 
 </tr>
