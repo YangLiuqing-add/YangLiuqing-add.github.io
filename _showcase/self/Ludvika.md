@@ -2,7 +2,7 @@
 show: true
 width: 32
 date: 2025-10-15 00:01:00 +0800
-group: Field Work
+group: Field Surveys
 ---
 
 #### 🇸🇪 DAS and Seismic Field Survey in Ludvika, Sweden
