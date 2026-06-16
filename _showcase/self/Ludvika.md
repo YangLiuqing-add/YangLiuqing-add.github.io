@@ -5,7 +5,7 @@ date: 2025-10-15 00:01:00 +0800
 group: Field Work
 ---
 
-#### 🇸🇪 Sala Field Campaign, Sweden
+#### 🇸🇪 DAS and Seismic Field Survey in Ludvika, Sweden
 
 Participated in Ludvika field geophysics campaigns in central Sweden as part of the Smart Exploration Research Center at Uppsala University. The fieldwork involved the deployment of seismic acquisition equipment, geophones, nodal sensors, vibroseis/source operations, and distributed acoustic sensing (DAS) systems using surface and borehole fiber-optic cables. The surveys were conducted for mineral exploration and subsurface characterization in the Blötberget mining area.
 
