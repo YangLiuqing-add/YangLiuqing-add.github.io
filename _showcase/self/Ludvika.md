@@ -12,15 +12,15 @@ Participated in Ludvika field geophysics campaigns in central Sweden as part of 
 <table style="width:100%; border-collapse:collapse;">
 <tr>
 <td style="width:35%; padding:4px;">
-<img src="Images/Ludvika_field1.jpeg"
+<img src="Images/Ludvika_field3.jpeg"
      style="width:100%; height:520px; object-fit:cover; border-radius:8px;">
 </td>
 
 <td style="width:65%; padding:4px;">
-<img src="Images/Ludvika_field2.jpeg"
+<img src="Images/Ludvika_field1.jpeg"
      style="width:100%; height:255px; object-fit:cover; border-radius:8px; margin-bottom:8px;">
 
-<img src="Images/Ludvika_field3.jpeg"
+<img src="Images/Ludvika_field2.jpeg"
      style="width:100%; height:255px; object-fit:cover; border-radius:8px;">
 </td>
 </tr>
