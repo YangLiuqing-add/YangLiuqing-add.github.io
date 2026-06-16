@@ -19,6 +19,6 @@ The campaign aimed to image tailings volume, internal heterogeneity, and geotech
 <br>
 
 <div align="center">
-  <img src="/Images/Canada_shot.jpeg" width="49%">
+  <img src="/Images/Canada_shot.jpeg" width="40%">
   <img src="/Images/Canada_field2.jpeg" width="49%" style="margin-bottom: 180px;">
 </div>
