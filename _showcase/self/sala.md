@@ -11,8 +11,19 @@ Participated in a near-surface geophysical field campaign in Sala, Sweden, invol
 
 Working directly with DAS systems and conventional seismic equipment provided valuable experience in bridging methodological research with field-scale geophysical investigations. The campaign also fostered collaboration among researchers and students from diverse geoscience backgrounds.
 
-<p align="center">
-  <img src="Images/Sala_field1.jpeg" width="32%">
-  <img src="Images/Sala_field2.jpeg" width="32%">
-  <img src="Images/Sala_field3.jpeg" width="32%">
-</p>
+<table style="width:100%; border-collapse:collapse;">
+<tr>
+<td style="width:35%; padding:4px;">
+<img src="Images/Sala_field3.jpeg"
+     style="width:100%; height:520px; object-fit:cover; border-radius:8px;">
+</td>
+
+<td style="width:65%; padding:4px;">
+<img src="Images/Sala_field1.jpeg"
+     style="width:100%; height:255px; object-fit:cover; border-radius:8px; margin-bottom:8px;">
+
+<img src="Images/Sala_field2.jpeg"
+     style="width:100%; height:255px; object-fit:cover; border-radius:8px;">
+</td>
+</tr>
+</table>
