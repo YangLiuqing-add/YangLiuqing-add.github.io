@@ -7,9 +7,9 @@ group: Field Work
 
 #### 🇸🇪 Sala Field Campaign, Sweden
 
-Participated in a near-surface geophysical field campaign in Sala, Sweden, involving seismic and distributed acoustic sensing (DAS) data acquisition for high-resolution subsurface characterization. The campaign included field deployment, acquisition design, quality control, and real-time data assessment under operational conditions.
+Participated in a large-scale seismic and magnetotelluric (MT) field campaign in the Sala region of central Sweden, targeting a Ni-Cu-PGE-bearing mafic–ultramafic system for mineral exploration and deep structural characterization. The survey combined dense 2D seismic profiles, a 2D-pseudo-3D acquisition setup, downhole DAS observations, and MT measurements.
 
-Working directly with DAS systems and conventional seismic equipment provided valuable experience in bridging methodological research with field-scale geophysical investigations. The campaign also fostered collaboration among researchers and students from diverse geoscience backgrounds.
+The acquisition included 2112 wireless seismic recorders, 1395 unique shot positions, a 28-ton seismic vibrator, 100 three-component SeisSolo® landstreamer sensors, and simultaneous downhole DAS acquisition in a target borehole. Despite challenging forest, snowmelt, and muddy field conditions, the campaign collected high-quality seismic data with clear first arrivals and strong reflection signals. The fieldwork was carried out with the Uppsala University team, students from the University of Gothenburg, and Geopartner Geofizyka, providing valuable experience in large-scale acquisition logistics, seismic vibrator operations, DAS field testing, and mineral exploration geophysics.
 
 
 <table style="width:100%; border-collapse:collapse;">
