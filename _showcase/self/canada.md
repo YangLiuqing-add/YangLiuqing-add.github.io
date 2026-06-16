@@ -2,7 +2,7 @@
 show: true
 width: 32
 date: 2026-04-25 00:01:00 +0800
-group: Field Work
+group: Field Surveys
 ---
 
 #### 🇨🇦 Vauze Mine Tailings Facility, Quebec, Canada
