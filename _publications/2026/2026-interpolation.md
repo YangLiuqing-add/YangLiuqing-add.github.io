@@ -11,7 +11,7 @@ category:       "Seismic Processing and Interpretation"
 category_order: 1
 #abstract: >-
 #  Explores a physically constrained and self-interpretable framework for InSAR time-series reconstruction, emphasizing transparent temporal feature attribution, uncertainty characterization, and scientific reliability in synthetic-to-real deformation mapping.
-cover:  assets/images/covers/interpolation.png
+cover:  assets/images/covers/Interpolation.png
 authors:
   - Liuqing Yang
   - Alireza Malehmir
