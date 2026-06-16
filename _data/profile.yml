@@ -41,9 +41,9 @@ short_bio: >-
 
 
 
-portrait_url: /assets/images/photos/person1.jpeg
+portrait_url: /assets/images/photos/Person1.jpeg
 portrait_caption: >-
-  Serve the cat, rule the world.
+
 
 education:
 - name: China University of Petroleum (Beijing)
