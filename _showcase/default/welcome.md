@@ -2,7 +2,7 @@
 show: true
 width: 32
 date: 2030-01-01 00:01:00 +0800
-group: Welcome!
+
 ---
 
 # More about me
