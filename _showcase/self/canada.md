@@ -11,14 +11,24 @@ Participated in a large-scale 3D seismic and DAS acquisition campaign at the his
 
 The campaign aimed to image tailings volume, internal heterogeneity, and geotechnical stability, and was carried out in collaboration with Uppsala University, UQAT, NRCan-GSC, Abitibi Geophysics, Eagle Geoscience, and GeoStack. It provided hands-on experience in large-scale seismic operations, DAS deployment, and acquisition logistics for mining and environmental monitoring applications.
 
-<div align="center">
-  <img src="/Images/Canada_land.jpeg" width="49%">
-  <img src="/Images/Canada_field.jpeg" width="49%">
-</div>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<img src="/Images/Canada_land.jpeg" width="100%">
+</td>
 
-<br>
+<td width="50%" valign="top">
+<img src="/Images/Canada_field.jpeg" width="100%">
+</td>
+</tr>
 
-<div align="center">
-  <img src="/Images/Canada_shot.jpeg" width="40%">
-  <img src="/Images/Canada_field2.jpeg" width="49%" style="margin-bottom: 180px;">
-</div>
+<tr>
+<td width="50%" valign="top">
+<img src="/Images/Canada_shot.jpeg" width="100%">
+</td>
+
+<td width="50%" valign="top">
+<img src="/Images/Canada_field2.jpeg" width="100%">
+</td>
+</tr>
+</table>
