@@ -7,7 +7,9 @@ group: Field Work
 
 #### 🇨🇦 Vauze Mine Tailings Facility, Quebec, Canada
 
-Participated in a large-scale 3D seismic and DAS acquisition campaign at the Vauze Mine Tailings Facility, supporting subsurface characterization and tailings stability assessment.
+Participated in a large-scale 3D seismic and distributed acoustic sensing (DAS) acquisition campaign at the historic Vauze Mine Tailings Facility in western Quebec, Canada. The survey deployed 496 wireless seismic recorders, 120 landstreamer-mounted 3C MEMS sensors, and a 1.4 km buried fibre-optic cable, with more than 230 source locations acquired using vertical and horizontal seismic sources.
+
+The campaign aimed to image tailings volume, internal heterogeneity, and geotechnical stability, and was carried out in collaboration with Uppsala University, UQAT, NRCan-GSC, Abitibi Geophysics, Eagle Geoscience, and GeoStack. It provided hands-on experience in large-scale seismic operations, DAS deployment, and acquisition logistics for mining and environmental monitoring applications.
 
 <p align="center">
   <img src="Images/Canada_field.jpeg" width="32%">
