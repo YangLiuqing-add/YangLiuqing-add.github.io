@@ -11,19 +11,34 @@ Participated in a near-surface geophysical field campaign in Sala, Sweden, invol
 
 Working directly with DAS systems and conventional seismic equipment provided valuable experience in bridging methodological research with field-scale geophysical investigations. The campaign also fostered collaboration among researchers and students from diverse geoscience backgrounds.
 
-<table style="width:100%; border-collapse:collapse;">
+<table width="100%">
 <tr>
-<td style="width:35%; padding:4px;">
-<img src="Images/Sala_field3.jpeg"
-     style="width:100%; height:520px; object-fit:cover; border-radius:8px;">
+<td width="33%" valign="top">
+<img src="/Images/Sala_field1.jpeg" width="100%">
 </td>
+<td width="33%" valign="top">
+<img src="/Images/Sala_field2.jpeg" width="100%">
+</td>
+<td width="33%" valign="top">
+<img src="/Images/Sala_field3.jpeg" width="100%">
+</td>
+</tr>
 
-<td style="width:65%; padding:4px;">
-<img src="Images/Sala_field1.jpeg"
-     style="width:100%; height:255px; object-fit:cover; border-radius:8px; margin-bottom:8px;">
-
-<img src="Images/Sala_field2.jpeg"
-     style="width:100%; height:255px; object-fit:cover; border-radius:8px;">
+<tr>
+<td width="33%" valign="top">
+<img src="/Images/Sala_forest.jpeg" width="100%">
+</td>
+<td width="33%" valign="top">
+<img src="/Images/Sala_gps.jpeg" width="100%">
+</td>
+<td width="33%" valign="top">
+<img src="/Images/Sala_vc.jpeg" width="100%">
 </td>
 </tr>
 </table>
+
+<p align="center">
+<i>
+Field geophysical survey and acquisition activities in the Sala area, Sweden.
+</i>
+</p>
