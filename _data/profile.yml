@@ -50,14 +50,14 @@ education:
   logo: /assets/images/badges/cup.jpg
   position: Ph.D. in Geological Resources and Geological Engineering
   date: Sep. 2020 - Jun. 2024
-- name: Yangtze University
-  logo: /assets/images/badges/yangtze.png
-  position: M.S. in Geological Engineering
-  date:  Sep. 2017 - Jun. 2020
-- name: China University of Petroleum, Shengli College
-  logo: /assets/images/badges/cupc.jpeg
-  position: B.A. in Oil and Gas Storage and Transportation Engineering
-  date: Sep. 2012 - Jul. 2016
+# - name: Yangtze University
+#  logo: /assets/images/badges/yangtze.png
+#  position: M.S. in Geological Engineering
+#  date:  Sep. 2017 - Jun. 2020
+#- name: China University of Petroleum, Shengli College
+#  logo: /assets/images/badges/cupc.jpeg
+#  position: B.A. in Oil and Gas Storage and Transportation Engineering
+#  date: Sep. 2012 - Jul. 2016
   
 experience:
 - name: Uppsala University
