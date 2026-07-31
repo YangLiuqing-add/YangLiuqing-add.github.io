@@ -44,7 +44,12 @@ short_bio: >-
 portrait_url: /assets/images/photos/Person1.jpeg
 portrait_caption: >-
 
-
+experience:
+- name: Uppsala University
+  logo: /assets/images/badges/Uppsala.png
+  position: Postdoc Researcher
+  date: Aug. 2024 - Present
+  
 education:
 - name: China University of Petroleum (Beijing)
   logo: /assets/images/badges/cup.jpg
@@ -59,11 +64,6 @@ education:
 #  position: B.A. in Oil and Gas Storage and Transportation Engineering
 #  date: Sep. 2012 - Jul. 2016
   
-experience:
-- name: Uppsala University
-  logo: /assets/images/badges/Uppsala.png
-  position: Postdoc Researcher
-  date: Aug. 2024 - Present
   
 awards:
 - name: Top Ten Outstanding Graduate Dissertation Award
