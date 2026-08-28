@@ -12,15 +12,15 @@ Participated in the NAVIS seismic field campaign at the Viscaria mining area in 
 <table style="width:100%; border-collapse:collapse;">
 <tr>
 <td style="width:35%; padding:4px;">
-<img src="Images/Kiruna4.jpeg"
+<img src="{{ '/Images/Kiruna4.jpeg' | relative_url }}"
      style="width:100%; height:520px; object-fit:cover; border-radius:8px;">
 </td>
 
 <td style="width:65%; padding:4px;">
-<img src="Images/Kiruna2.jpeg"
+<img src="{{ '/Images/Kiruna2.jpeg' | relative_url }}"
      style="width:100%; height:255px; object-fit:cover; border-radius:8px; margin-bottom:8px;">
 
-<img src="Images/Kiruna3.jpeg"
+<img src="{{ '/Images/Kiruna3.jpeg' | relative_url }}"
      style="width:100%; height:255px; object-fit:cover; border-radius:8px;">
 </td>
 </tr>
