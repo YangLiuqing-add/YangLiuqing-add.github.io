@@ -1,13 +1,13 @@
 ---
 show: true
 width: 32
-date: 2025-10-15 00:01:00 +0800
+date: 2026-8-14 00:01:00 +0800
 group: Field Work
 ---
 
-#### 🇸🇪 Sala Field Campaign, Sweden
+#### 🇸🇪 NAVIS Seismic Campaign, Kiruna, Sweden
 
-Participated in Ludvika field geophysics campaigns in central Sweden as part of the Smart Exploration Research Center at Uppsala University. The fieldwork involved the deployment of seismic acquisition equipment, geophones, nodal sensors, vibroseis/source operations, and distributed acoustic sensing (DAS) systems using surface and borehole fiber-optic cables. The surveys were conducted for mineral exploration and subsurface characterization in the Blötberget mining area.
+Participated in the NAVIS seismic field campaign at the Viscaria mining area in Kiruna, northern Sweden, as part of the Smart Exploration Research Center at Uppsala University. The fieldwork involved the deployment of more than 3,500 seismic recorders, installation of fiber-optic cables in three deep boreholes, and acquisition of distributed acoustic sensing (DAS) data for mineral exploration and subsurface characterization.
 
 <table style="width:100%; border-collapse:collapse;">
 <tr>
